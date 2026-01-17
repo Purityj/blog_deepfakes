@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "blog_deepfakes"
+  title: "Deepfakes & Digital Trust"
   navbar:
     right:
       - about.qmd
