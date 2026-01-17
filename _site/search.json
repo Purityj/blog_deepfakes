@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi! I’m Purity, a graduate student studying Data Science. This blog explores how data and AI impact society, with a focus on communication, trust, and responsible technology."
+  },
+  {
+    "objectID": "posts/deepfakes-trust.html",
+    "href": "posts/deepfakes-trust.html",
+    "title": "Deepfakes and the Erosion of Trust in Digital Media",
+    "section": "",
+    "text": "Imagine watching a video where a public figure appears to say something shocking. You might believe it at first glance — but what if that video isn’t real? This is the world of deepfakes, where artificial intelligence (AI) can create videos or audio clips that look and sound completely real, even though they never actually happened. In a deepfake, a person appears to say or do something they did not do."
+  },
+  {
+    "objectID": "posts/deepfakes-trust.html#introduction",
+    "href": "posts/deepfakes-trust.html#introduction",
+    "title": "Deepfakes and the Erosion of Trust in Digital Media",
+    "section": "",
+    "text": "Imagine watching a video where a public figure appears to say something shocking. You might believe it at first glance — but what if that video isn’t real? This is the world of deepfakes, where artificial intelligence (AI) can create videos or audio clips that look and sound completely real, even though they never actually happened. In a deepfake, a person appears to say or do something they did not do."
+  },
+  {
+    "objectID": "posts/deepfakes-trust.html#what-are-deepfakes",
+    "href": "posts/deepfakes-trust.html#what-are-deepfakes",
+    "title": "Deepfakes and the Erosion of Trust in Digital Media",
+    "section": "What Are Deepfakes?",
+    "text": "What Are Deepfakes?\nDeepfakes are generated using deep learning, a type of AI that learns patterns from large amounts of data. One popular technique is called Generative Adversarial Networks (GANs). A GAN works like a competition between two AI systems: one generates fake content, while the other tries to detect whether it is fake. Over time, the generator improves, producing increasingly realistic videos and audio."
+  },
+  {
+    "objectID": "posts/deepfakes-trust.html#the-core-problem",
+    "href": "posts/deepfakes-trust.html#the-core-problem",
+    "title": "Deepfakes and the Erosion of Trust in Digital Media",
+    "section": "The Core Problem",
+    "text": "The Core Problem\nThe core problem is that deepfakes are becoming so realistic that people can no longer reliably tell what is real and what is fake, undermining trust in digital media."
+  },
+  {
+    "objectID": "posts/deepfakes-trust.html#why-humans-struggle-to-detect-modern-deepfakes",
+    "href": "posts/deepfakes-trust.html#why-humans-struggle-to-detect-modern-deepfakes",
+    "title": "Deepfakes and the Erosion of Trust in Digital Media",
+    "section": "Why Humans Struggle to Detect Modern Deepfakes",
+    "text": "Why Humans Struggle to Detect Modern Deepfakes\nHumans are not well equipped to detect modern deepfakes because we rely heavily on visual and audio cues—such as facial expressions, voice tone, and natural speech patterns—to judge whether something is real. Advances in artificial intelligence have made it possible for deepfake systems to mimic these cues with remarkable accuracy, often eliminating the obvious flaws that once gave fake content away. In addition, digital media is typically consumed quickly and in large volumes, especially on social media, where people rarely have the time or context to carefully analyze what they are seeing. Factors like fatigue, emotional reactions, and confirmation bias further reduce our ability to question content that aligns with our existing beliefs. As a result, even careful and well-intentioned viewers can be misled, highlighting why human judgment alone is no longer sufficient to reliably identify deepfakes."
+  },
+  {
+    "objectID": "posts/deepfakes-trust.html#how-data-science-helps-detect-deepfakes",
+    "href": "posts/deepfakes-trust.html#how-data-science-helps-detect-deepfakes",
+    "title": "Deepfakes and the Erosion of Trust in Digital Media",
+    "section": "How Data Science Helps Detect Deepfakes",
+    "text": "How Data Science Helps Detect Deepfakes\nBecause humans alone cannot reliably detect modern deepfakes, researchers are turning to data science–based detection methods. Some tools, such as Deepware Scanner, analyze visual inconsistencies in videos, including unnatural blinking, odd shadows, or distorted facial features. Others, like Resemblyzer, focus on audio signals, examining pitch, tone, and speech patterns for signs of manipulation."
+  },
+  {
+    "objectID": "posts/deepfakes-trust.html#limitations-of-single-modal-detection",
+    "href": "posts/deepfakes-trust.html#limitations-of-single-modal-detection",
+    "title": "Deepfakes and the Erosion of Trust in Digital Media",
+    "section": "Limitations of Single-Modal Detection",
+    "text": "Limitations of Single-Modal Detection\nHowever, as deepfake technology improves, these single-method approaches are often no longer sufficient."
+  },
+  {
+    "objectID": "posts/deepfakes-trust.html#multimodal-detection",
+    "href": "posts/deepfakes-trust.html#multimodal-detection",
+    "title": "Deepfakes and the Erosion of Trust in Digital Media",
+    "section": "Multimodal Detection",
+    "text": "Multimodal Detection\nTo address these limitations, more advanced AI models use multimodal detection, meaning they analyze both video and audio at the same time. For example, MIT Media Lab’s FaceForensics++ project trains AI models to detect subtle manipulations across multiple data sources, increasing detection accuracy. Similarly, Microsoft’s Video Authenticator estimates the likelihood that a video has been altered by examining both visual and temporal cues."
+  },
+  {
+    "objectID": "posts/deepfakes-trust.html#conclusion",
+    "href": "posts/deepfakes-trust.html#conclusion",
+    "title": "Deepfakes and the Erosion of Trust in Digital Media",
+    "section": "Conclusion",
+    "text": "Conclusion\nDeepfakes are not going away. While the technology can be used creatively in film and entertainment, its misuse presents serious risks. Understanding how deepfakes are created, why they are dangerous, and how data science can detect them is essential for anyone who consumes digital media today.\nKey takeaway: As AI continues to advance, our ability to detect and responsibly manage deepfakes must advance as well. Data science is not just part of the problem — it is a critical part of the solution."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Everything Data Science",
+    "section": "",
+    "text": "This blog explores how advances in AI are reshaping trust in digital media, with a focus on deepfake technology. It discusses how deepfakes are created, why they are increasingly difficult for humans to detect, and how data science techniques—particularly multimodal approaches—can help address this challenge.\nThe goal is to make complex ideas around AI, media manipulation, and detection methods accessible to readers who are concerned about misinformation and interested in how technology can help restore trust.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeepfakes and the Erosion of Trust in Digital Media\n\n\n\nData Science\n\nAI\n\nDigital Media\n\nTrust\n\n\n\nHow deepfakes are undermining trust in digital media and how data science, particularly multimodal detection, helps address the problem.\n\n\n\n\n\nJan 17, 2026\n\n\nPurity Jangaya\n\n\n\n\n\nNo matching items"
+  }
+]

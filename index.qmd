@@ -1,0 +1,18 @@
+---
+title: "Everything Data Science"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+This blog explores how advances in AI are reshaping trust in digital media, with a focus on deepfake technology. It discusses how deepfakes are created, why they are increasingly difficult for humans to detect, and how data science techniques—particularly multimodal approaches—can help address this challenge.
+
+The goal is to make complex ideas around AI, media manipulation, and detection methods accessible to readers who are concerned about misinformation and interested in how technology can help restore trust.
+
+
